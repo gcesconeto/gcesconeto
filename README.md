@@ -7,7 +7,7 @@ I've always been fascinated with technology and how things work, which led me to
 Sempre fui fascinado por tecnologia e como as coisas funcionam. Engenheiro mecânico de formação, de 2018 a 2021 atuei no ramo automotivo através da implantação de minha própria empresa. Em 2021 apostei na Trybe para alavancar minha transição de carreira para área que sempre tive afinidade, tecnologia e desenvolvimento de software. Durante o curso aprendi a programar, a aprender e a trabalhar. Agora me sinto pronto para fazer parte de um time e contribuir na revolução digital.
 </details>
 
-## Skills and interests:
+#### Skills and interests:
 - Python
 - Django
 - JavaScript
