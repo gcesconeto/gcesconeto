@@ -11,6 +11,7 @@ Sempre fui fascinado por tecnologia e como as coisas funcionam. Engenheiro mecâ
 - Python
 - Django
 - JavaScript
+- TypeScript
 - ReactJS
 - NodeJS
 - ExpressJS
